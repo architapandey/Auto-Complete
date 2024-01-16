@@ -3,10 +3,10 @@ import "./index.css";
 
 const Tag = ({ option, onDelete }) => {
   return (
-    <div className="tag" onClick={onDelete}>
+    <div className="tag">
       <img width={20} height={20} src={option.image} alt="user-icon" />
       <span>{option.title}</span>
-      <AiOutlineClose className="close-icon" />
+      <AiOutlineClose className="close-icon" onClick={onDelete} />
     </div>
   );
 };

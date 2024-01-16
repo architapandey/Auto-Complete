@@ -1,31 +1,31 @@
 export const Options = [
   {
-    title: "Company 1",
+    title: "Gladiator",
     image:
       "https://www.iconpacks.net/icons/1/free-user-group-icon-296-thumb.png",
   },
   {
-    title: "Company 2",
+    title: "Terminator 2: Judgment Day",
     image:
       "https://www.iconpacks.net/icons/1/free-user-group-icon-296-thumb.png",
   },
   {
-    title: "Company 3",
+    title: "Back to the Future",
     image:
       "https://www.iconpacks.net/icons/1/free-user-group-icon-296-thumb.png",
   },
   {
-    title: "Company 4",
+    title: "The Departed",
     image:
       "https://www.iconpacks.net/icons/1/free-user-group-icon-296-thumb.png",
   },
   {
-    title: "Company 5",
+    title: "Princess Mononoke",
     image:
       "https://www.iconpacks.net/icons/1/free-user-group-icon-296-thumb.png",
   },
   {
-    title: "Company 6",
+    title: "Vertigo",
     image:
       "https://www.iconpacks.net/icons/1/free-user-group-icon-296-thumb.png",
   },

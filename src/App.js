@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <div className="header">Custom Auto Complete</div>
-      <CustomAutocomplete options={Options} defaultValue={[Options[1]]} />
+      <CustomAutocomplete options={Options} defaultValue={[Options[0]]} />
     </div>
   );
 }
